@@ -1,0 +1,14 @@
+body{
+    background-color: darkgoldenrod;
+}
+
+strong{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+p{
+    padding: 40px auto;
+    font-size: 10px;
+}
